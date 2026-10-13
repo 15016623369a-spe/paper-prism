@@ -1,0 +1,13 @@
+# Local runtime and private research data
+.DS_Store
+__pycache__/
+*.pyc
+node_modules/
+.npm-cache/
+.env
+.env.*
+outputs/
+literature-library/
+*.pdf
+*.pptx
+*.docx

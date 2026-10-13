@@ -1,0 +1,6 @@
+interface:
+  display_name: "Prism · 棱镜"
+  short_description: "中文精读与论文对比，积累去重词汇和阅读指南，自动调用必要工具，按需绘图、制作组会PPT"
+  default_prompt: "请使用 $paper-prism 精读这篇论文，自动调用必要工具，保存阅读卡、新术语和中文阅读指南，推荐相关文献，并与库内相关论文比较。"
+policy:
+  allow_implicit_invocation: true
